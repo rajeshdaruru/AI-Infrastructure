@@ -1,0 +1,12 @@
+Checkpoint trained on NVIDIA GeForce RTX 4090 with torch 2.8.0+cu129
+Saved accuracy:    90.76%
+Reloaded accuracy: 90.76%  (on cuda)
+  ok   predicted cat         actual cat
+  ok   predicted ship        actual ship
+  ok   predicted ship        actual ship
+  ok   predicted airplane    actual airplane
+  ok   predicted frog        actual frog
+  ok   predicted frog        actual frog
+  ok   predicted automobile  actual automobile
+  ok   predicted frog        actual frog
+PASS: checkpoint reloads and matches.
